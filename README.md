@@ -59,14 +59,12 @@
 - [JavaEE开发的颠覆者 Spring Boot实战  完整版.pdf](/doc/springboot/JavaEE开发的颠覆者%20Spring%20Boot实战%20%20完整版.pdf)
 - [Spring Boot实战.pdf](/doc/springboot/Spring%20Boot实战.pdf)
 
-## springcloud
+## springcloud & 微服务
 - [Spring Cloud与Docker微服务架构实战.pdf](/doc/springcloud/Spring%20Cloud与Docker微服务架构实战.pdf)
 - [SpringCloud与Docker微服务架构实战-完整版.pdf](/doc/springcloud/SpringCloud与Docker微服务架构实战-完整版.pdf)
 - [springCloud参考指南.pdf](/doc/springcloud/springCloud参考指南.pdf)
 - [使用SpringCloud和Docker实战微服务.pdf](/doc/springcloud/使用SpringCloud和Docker实战微服务.pdf)
-
-## 微服务
-- [JAVA并发编程实践.pdf](/doc/微服务/微服务设计.pdf)
+- [微服务设计.pdf](/doc/微服务/微服务设计.pdf)
 
 ## 架构
 - [一线架构师实践指南-温昱.扫描版.pdf](/doc/架构/一线架构师实践指南-温昱.扫描版.pdf)
