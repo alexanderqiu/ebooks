@@ -66,7 +66,7 @@
 - [使用SpringCloud和Docker实战微服务.pdf](/doc/springcloud/使用SpringCloud和Docker实战微服务.pdf)
 
 ## 微服务
-- [JAVA并发编程实践.pdf](/doc/微服务/JAVA并发编程实践.pdf)
+- [JAVA并发编程实践.pdf](/doc/微服务/微服务设计.pdf)
 
 ## 架构
 - [一线架构师实践指南-温昱.扫描版.pdf](/doc/架构/一线架构师实践指南-温昱.扫描版.pdf)
