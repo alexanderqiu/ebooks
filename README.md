@@ -90,7 +90,9 @@
 - [Go语言实战.pdf](/doc/go/Go语言实战.pdf)
 
 ## groovy
-- [Go语言实战.pdf](/doc/groovy/Go语言实战.pdf)
+- [groovy in action中文版.pdf](/doc/groovy/groovy%20in%20action中文版.pdf)
+- [groovy in action中文版.pdf](/doc/groovy/GROOVY入门经典.pdf)
+- [Making Java Groovy.pdf](/doc/groovy/Making%20Java%20Groovy.pdf)
 
 ## python
 - [django.pdf](/doc/python/django.pdf)
