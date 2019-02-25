@@ -86,6 +86,10 @@
 
 ## go
 - [Go语言实战.pdf](/doc/go/Go语言实战.pdf)
+- [Go Web编程.pdf](/doc/go/Go%20Web%20编程.pdf)
+- [Go并发编程实战 第二版.pdf](/doc/go/Go并发编程实战%20第2版.pdf)
+- [Go语言圣经.pdf](/doc/go/Go语言圣经.pdf)
+- [深入解析Go](https://www.gitbook.com/book/tiancaiamao/go-internals)
 
 ## groovy
 - [groovy in action中文版.pdf](/doc/groovy/groovy%20in%20action中文版.pdf)
